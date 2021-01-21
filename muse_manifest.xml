@@ -1,0 +1,79 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="google.com" resolutions="1x,2x" timestamp="1611197001842">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="188871829" ref="index"/>
+    <file name="movie.css" crc="263243558" ref="movie"/>
+    <file name="poster.css" crc="4107005299" ref="poster"/>
+    <file name="process.css" crc="4190025332" ref="process"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:movie:poster:process"/>
+    <file name="museutils.js" crc="4216313831" ref="index:movie:poster:process"/>
+    <file name="whatinput.js" crc="86476730" ref="index:movie:poster:process"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:movie:poster:process"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:process:movie:poster"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:movie:poster:process"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:process:movie:poster"/>
+    <file name="require.js" crc="3951022091" ref="index:movie:poster:process"/>
+    <file name="webpro.js" crc="4143865194" ref="process"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="process"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="process"/>
+    <file name="touchswipe.js" crc="4200445185" ref="process"/>
+  </folder>
+  <folder name="images">
+    <file name="img_4575.jpg" crc="223043111" ref="index:process:movie:poster">
+      <caption webpage="index" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="process" alt=""/>
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="ok3.png" crc="124880716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ok3_2x.png" crc="773371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_e6894.jpg" crc="237645823" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_e6894_2x.jpg" crc="3841763879" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="process"/>
+    <file name="img_e6916.jpg" crc="284463217" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_e6916_2x.jpg" crc="3800145956" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_e6926.jpg" crc="80269351" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="img_e6926_2x.jpg" crc="213453508" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="ok3.jpg" crc="312683361" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="ok3_2x.jpg" crc="3895308978" seo="true" ref="process">
+      <caption webpage="process" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="process"/>
+    <file name="總評海報rgb.jpg" crc="3786403968" seo="true" ref="poster">
+      <caption webpage="poster" alt=""/>
+    </file>
+    <file name="總評海報rgb_2x.jpg" crc="362638191" seo="true" ref="poster">
+      <caption webpage="poster" alt=""/>
+    </file>
+    <file name="橫式海報.jpg" crc="4022154624" seo="true" ref="poster">
+      <caption webpage="poster" alt=""/>
+    </file>
+    <file name="橫式海報_2x.jpg" crc="4060273949" seo="true" ref="poster">
+      <caption webpage="poster" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4071138052" seo="true" mt="1611195398599" redirect="true"/>
+  <file name="movie.html" crc="48194804" seo="true" mt="1611196986184" redirect="true"/>
+  <file name="poster.html" crc="92704713" seo="true" mt="1611196996179" redirect="true"/>
+  <file name="process.html" crc="480736201" seo="true" mt="1611196955547" redirect="true"/>
+</manifest>
